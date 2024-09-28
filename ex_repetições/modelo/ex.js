@@ -11,6 +11,7 @@ function contar(){
 
     } else {
         pre.innerHTML = 'Contando: <br>'
+        // declarar váriaveis para o loop
         let i = Number(inicio.value);
         let f = Number(fim.value);
         let p = Number(passo.value);
